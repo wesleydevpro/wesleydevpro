@@ -10,9 +10,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleydevpro&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wesleydevpro&theme=github-dark&hide_border=true)
 
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleydevpro&theme=github_dark)
 
 
 </div>

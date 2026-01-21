@@ -1,40 +1,62 @@
 # 👋 Olá, eu sou Wesley Rodrigues
 
-💻 Desenvolvedor **Full Stack**  
-🚀 Foco em **APIs**, **sistemas administrativos** e **integrações front-end/back-end**  
-📍 Brasil
+💻 Desenvolvedor **Backend / Full Stack**  
+🚀 Especialista em **APIs REST**, documentação com **Swagger** e testes com **Postman**  
+🎓 Sistemas de gestão educacional e plataformas EAD (estilo Udemy)
 
 ---
 
-## 🧠 Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+## 📊 Dashboard
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
-## 🧩 Frameworks & ORMs
-![Laravel](https://img.shields.io/badge/Laravel-EF4135?logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+## 🧩 Stack Tecnológica
+
+### 🧠 Linguagens
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
+### 🧩 Frameworks & ORMs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="40"/>
+</p>
+
+### 🗄️ Banco de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### 🛠️ IDEs & Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+</p>
+
+### 🐳 Infra
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
 
 ---
 
-## 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-## 🛠️ Ferramentas & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
-
----
-
-## 🐳 DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+## 🧪 APIs & Testes
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 

@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wesleydevpro&theme=github-dark&hide_border=true)
+![Metrics](https://raw.githubusercontent.com/wesleydevpro/.github/main/github-metrics.svg)
 
 
 

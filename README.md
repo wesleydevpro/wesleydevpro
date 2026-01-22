@@ -1,14 +1,14 @@
-# 👋 Olá, eu sou Wesley Rodrigues
+# 👋 Hi, I'm Wesley Rodrigues
 
-💻 Desenvolvedor **Backend / Full Stack**  
-🚀 Especialista em **APIs REST**, documentação com **Swagger** e testes com **Postman**  
-🎓 Sistemas de gestão educacional e plataformas EAD (estilo Udemy)
+💻 **Backend / Full Stack Developer**  
+🚀 Specialized in **REST API development**, **Swagger (OpenAPI) documentation**, and **API testing with Postman**  
+🎓 Experience building **educational management systems** and **e-learning platforms** (Udemy-style)
 
 ---
 
-## 🧩 Stack Tecnológica
+## 🧩 Tech Stack
 
-### 🧠 Linguagens
+### 🧠 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80"/> 
@@ -22,12 +22,12 @@
   <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" width="80"/>
 </p>
 
-### 🗄️ Banco de Dados
+### 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80"/>
 </p>
 
-### 🛠️ IDEs & Ferramentas
+### 🛠️ IDEs & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="80"/>
@@ -35,33 +35,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="80"/>
 </p>
 
-### 🐳 Infra
+### 🐳 Infrastructure
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80"/>
 </p>
 
 ---
 
-## 🧪 APIs & Testes
+## 🧪 APIs & Testing
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
-## 📌 O que eu faço
-- Desenvolvimento de **APIs REST** com foco em **backend**
-- Documentação e testes de APIs usando **Swagger (OpenAPI)** e **Postman**
-- Integração de **APIs** com **front-end em Vue.js**
-- Desenvolvimento de sistemas de **gestão educacional** (escolas, cursos e plataformas EAD)
-- Criação de plataformas de cursos no estilo **Udemy**
-- Modelagem de dados e ORM com **Prisma**
-- Uso de **Docker** para executar e versionar **migrations em PHP**, criando e atualizando estruturas no **MySQL**
+## 📌 What I Do
+- Design and development of **RESTful APIs** with a strong **backend focus**
+- **API documentation and testing** using **Swagger (OpenAPI)** and **Postman**
+- Integration of **backend APIs** with **Vue.js front-end applications**
+- Development of **educational management systems** (schools, courses, and LMS platforms)
+- Creation of **Udemy-style e-learning platforms**
+- Data modeling and ORM implementation using **Prisma**
+- Use of **Docker** to manage and run **PHP database migrations**, creating and updating **MySQL** schemas
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/rodriguessnk/
-- 📧 Email 1: wesley@desenvolvimento.pro
-- 📧 Email 2: rodrigues.snk@gmail.com
-
-
+- 📧 Email: wesley@desenvolvimento.pro  
+- 📧 Alternate Email: rodrigues.snk@gmail.com

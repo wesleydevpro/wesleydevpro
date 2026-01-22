@@ -6,19 +6,6 @@
 
 ---
 
-## 📊 Dashboard
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wesleydevpro&theme=github-dark)
-
-
-
-
-</div>
-
----
-
 ## 🧩 Stack Tecnológica
 
 ### 🧠 Linguagens
